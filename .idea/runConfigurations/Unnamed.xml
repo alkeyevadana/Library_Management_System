@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="GroovyScriptRunConfiguration" factoryName="Groovy" singleton="false" nameIsGenerated="true">
+    <module name="Library_Management_System" />
+    <setting name="path" value="" />
+    <setting name="vmparams" value="" />
+    <setting name="params" value="" />
+    <setting name="workDir" value="file://$PROJECT_DIR$" />
+    <setting name="debug" value="false" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
